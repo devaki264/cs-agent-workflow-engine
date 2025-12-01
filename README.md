@@ -20,15 +20,13 @@ The classification logic is based on systematic research (Phase 1 & 2) that iden
 
 ---
 
----
-
 ## 📸 Live Demo
 
 ### Web Interface
 
 The system provides a clean, professional web interface for real-time ticket classification:
 
-![Live Classification Result](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20125318.png?raw=true)
+![CS Agent Workflow Engine Interface](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20125318.png?raw=true)
 
 *Main interface showing batch processing and custom ticket input*
 
@@ -38,7 +36,7 @@ The system provides a clean, professional web interface for real-time ticket cla
 
 Real-time classification example demonstrating the AI agent's decision-making:
 
-![CS Agent Workflow Engine Interface](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20120743.png?raw=true)
+![Live Classification Result](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20120743.png?raw=true)
 
 **Example shown above:**
 - **Input:** "My account is locked out" + "I can't log in and need access urgently"  
@@ -62,6 +60,55 @@ This demonstrates the optimized prompt from Phase 2 research working exactly as 
 
 ---
 
+## 📚 Complete Portfolio
+
+This project is **Phase 3 (Implementation)** of a comprehensive AI agent optimization initiative.
+
+### 📁 Full Project Documentation
+
+**[View Complete Portfolio (Google Drive) →](https://drive.google.com/drive/folders/15fXSBhqoO8QEfLmKG-qR1qk8LHoS2nZT?usp=sharing)**
+
+The complete portfolio includes:
+
+**Phase 1: Baseline Analysis** (November 28-30, 2025)
+- Initial Audit Report (15 pages)
+- Test Scenarios (20 support tickets)
+- Baseline Performance Tracking (scored data)
+- Failure Pattern Analysis (5 major patterns identified)
+- AI Response Documentation (evidence)
+
+**Performance Baseline:**
+- Autonomous Resolution: 30%
+- Overall Quality: 7.13/10 (tested subset: 5.64/10)
+- Escalation Accuracy: 90%
+- Critical Issues: 55% hallucinations, 10% security violations
+
+**Phase 2: Optimization** (November 30 - December 1, 2025)
+- System Prompt v2.0 (optimized prompt addressing all failure patterns)
+- Optimization Performance Tracking (improvement data)
+- Escalation Decision Tree (visual flowchart)
+- Optimization Summary Report (results & learnings)
+
+**Performance After Optimization:**
+- Autonomous Resolution: 65-70% (+35 percentage points)
+- Overall Quality: 9.85/10 (+75% improvement)
+- Escalation Accuracy: 100% (+10 percentage points)
+- Critical Issues: 0% hallucinations, 0% security violations
+
+**Phase 3: Implementation** (December 1, 2025 - This Repository)
+- Working Python application with Flask web framework
+- Google Gemini API integration
+- Real-time web interface
+- Professional documentation
+- Demo screenshots
+
+### Project Timeline
+- **Phase 1 (Research):** November 28-30, 2025 (~8 hours)
+- **Phase 2 (Design):** November 30 - December 1, 2025 (~12 hours)
+- **Phase 3 (Build):** December 1, 2025 (~6 hours)
+- **Total Investment:** ~26 hours
+
+---
 
 ## ✨ Features
 
@@ -117,7 +164,7 @@ This demonstrates the optimized prompt from Phase 2 research working exactly as 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/cs-agent-workflow-engine.git
+git clone https://github.com/devaki264/cs-agent-workflow-engine.git
 cd cs-agent-workflow-engine
 ```
 
@@ -214,30 +261,6 @@ Based on systematic testing (Phase 1 & Phase 2 research):
 
 ---
 
-## 🎯 Project Background
-
-This project is Phase 3 of a comprehensive AI agent optimization initiative:
-
-**Phase 1: Baseline Analysis**
-- Created 20 realistic SaaS support scenarios
-- Tested vanilla AI agent performance
-- Identified 5 critical failure patterns
-- Established baseline metrics (5.64/10 average)
-
-**Phase 2: Prompt Optimization**
-- Designed optimized system prompt addressing all failure patterns
-- Achieved 75% performance improvement (5.64 → 9.85)
-- Eliminated hallucinations, security violations, and escalation errors
-- Documented complete optimization methodology
-
-**Phase 3: Implementation** (This Project)
-- Built working AI agent workflow engine
-- Implemented Phase 2 prompt in production code
-- Created web interface for demonstration
-- Deployed complete classification system
-
----
-
 ## 🏗️ Project Structure
 ```
 cs-agent-workflow-engine/
@@ -309,8 +332,8 @@ This project is for portfolio and educational purposes.
 
 ## 👤 Author
 
-**Dev Palla**
-- Portfolio: https://github.com/devaki264
+**Devakinandan Palla**
+- GitHub: https://github.com/devaki264
 - LinkedIn: https://www.linkedin.com/in/devakinandan-palla-164848227/
 - Email: devakinandanpp@gmail.com
 
@@ -332,10 +355,4 @@ For questions about this project or collaboration opportunities:
 
 ---
 
-
 **⭐ If you found this project interesting, please star the repository!**
-
-
-
-
-
