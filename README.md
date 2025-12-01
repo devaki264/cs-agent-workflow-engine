@@ -267,9 +267,9 @@ This project is for portfolio and educational purposes.
 ## 👤 Author
 
 **Dev Palla**
-- Portfolio: [Your Portfolio Link]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Portfolio: https://github.com/devaki264
+- LinkedIn: https://www.linkedin.com/in/devakinandan-palla-164848227/
+- Email: devakinandanpp@gmail.com
 
 ---
 
@@ -288,5 +288,6 @@ For questions about this project or collaboration opportunities:
 - LinkedIn: https://www.linkedin.com/in/devakinandan-palla-164848227/
 
 ---
+
 
 **⭐ If you found this project interesting, please star the repository!**
