@@ -28,7 +28,7 @@ The classification logic is based on systematic research (Phase 1 & 2) that iden
 
 The system provides a clean, professional web interface for real-time ticket classification:
 
-![CS Agent Workflow Engine Interface](Screenshot_2025-12-01_120743.png)
+![CS Agent Workflow Engine Interface](Screenshot 2025-12-01 120743.png)
 
 *Main interface showing batch processing and custom ticket input*
 
@@ -335,4 +335,5 @@ For questions about this project or collaboration opportunities:
 
 
 **⭐ If you found this project interesting, please star the repository!**
+
 
