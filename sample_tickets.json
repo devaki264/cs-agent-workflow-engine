@@ -1,0 +1,42 @@
+[
+  {
+    "id": "TICKET-001",
+    "subject": "Can't log in - urgent meeting in 2 hours",
+    "description": "I've tried resetting my password 3 times but the email isn't coming through. I have a client meeting in 2 hours and need access ASAP!",
+    "customer_email": "urgent-user@startup.io",
+    "customer_tier": "Pro",
+    "created_at": "2025-01-12T10:30:00Z"
+  },
+  {
+    "id": "TICKET-002",
+    "subject": "Need invoice for Q4 billing",
+    "description": "Hi, can you send me the invoice for November? We need it for our accounting department.",
+    "customer_email": "finance@enterprise.com",
+    "customer_tier": "Enterprise",
+    "created_at": "2025-01-12T11:15:00Z"
+  },
+  {
+    "id": "TICKET-003",
+    "subject": "Notion integration request",
+    "description": "We'd love to see Notion integration added to FlowTask. Is this on the roadmap? When can we expect it?",
+    "customer_email": "product@techcorp.io",
+    "customer_tier": "Pro",
+    "created_at": "2025-01-12T11:45:00Z"
+  },
+  {
+    "id": "TICKET-004",
+    "subject": "Canceling subscription - switching to competitor",
+    "description": "We've decided to move to Asana. The pricing increase isn't justified. Please process our cancellation.",
+    "customer_email": "ceo@startup.co",
+    "customer_tier": "Pro",
+    "created_at": "2025-01-12T12:00:00Z"
+  },
+  {
+    "id": "TICKET-005",
+    "subject": "Data export not working",
+    "description": "When I try to export our project data to CSV, I get an error message. This has been happening for 3 days now.",
+    "customer_email": "admin@bigcorp.com",
+    "customer_tier": "Enterprise",
+    "created_at": "2025-01-12T09:30:00Z"
+  }
+]
