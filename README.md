@@ -28,7 +28,7 @@ The classification logic is based on systematic research (Phase 1 & 2) that iden
 
 The system provides a clean, professional web interface for real-time ticket classification:
 
-![CS Agent Workflow Engine Interface](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20120743.png?raw=true)
+![Live Classification Result](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20125318.png?raw=true)
 
 *Main interface showing batch processing and custom ticket input*
 
@@ -38,7 +38,7 @@ The system provides a clean, professional web interface for real-time ticket cla
 
 Real-time classification example demonstrating the AI agent's decision-making:
 
-![Live Classification Result](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20125318.png?raw=true)
+![CS Agent Workflow Engine Interface](https://github.com/devaki264/cs-agent-workflow-engine/blob/main/Screenshot%202025-12-01%20120743.png?raw=true)
 
 **Example shown above:**
 - **Input:** "My account is locked out" + "I can't log in and need access urgently"  
@@ -334,6 +334,7 @@ For questions about this project or collaboration opportunities:
 
 
 **⭐ If you found this project interesting, please star the repository!**
+
 
 
 
