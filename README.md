@@ -20,6 +20,50 @@ The classification logic is based on systematic research (Phase 1 & 2) that iden
 
 ---
 
+---
+
+## 📸 Live Demo
+
+### Web Interface
+
+The system provides a clean, professional web interface for real-time ticket classification:
+
+![CS Agent Workflow Engine Interface](Screenshot_2025-12-01_120743.png)
+
+*Main interface showing batch processing and custom ticket input*
+
+---
+
+### Classification in Action
+
+Real-time classification example demonstrating the AI agent's decision-making:
+
+![Live Classification Result](1764611619412_image.png)
+
+**Example shown above:**
+- **Input:** "My account is locked out" + "I can't log in and need access urgently"
+- **Customer Tier:** Pro
+- **AI Classification:**
+  - 📁 Category: ACCOUNT
+  - ⚡ Priority: URGENT (correctly identified)
+  - 🎯 Confidence: 95%
+  - 🚨 Decision: ESCALATE → SUPPORT_TEAM
+  - 💭 Reasoning: "Account lockout is a security concern and requires immediate attention. Login issues always escalate."
+  - 🏷️ Tags: login, account_access, locked_out
+
+**Why this classification is correct:**
+- ✅ Security trigger detected (login/password issue)
+- ✅ Urgency cue recognized ("urgent", "need access")
+- ✅ Proper escalation per Phase 2 rules (security + urgency = escalate)
+- ✅ Transparent reasoning provided
+- ✅ Relevant tags auto-generated
+
+This demonstrates the optimized prompt from Phase 2 research working exactly as designed.
+
+---
+
+
+
 ## ✨ Features
 
 ### Core Functionality
@@ -291,3 +335,4 @@ For questions about this project or collaboration opportunities:
 
 
 **⭐ If you found this project interesting, please star the repository!**
+
