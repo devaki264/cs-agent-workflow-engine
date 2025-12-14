@@ -1,7 +1,7 @@
 # 🤖 CS Agent Workflow Engine
 
 AI-powered customer support ticket classification and routing system built with Python, Flask, and Google Gemini.
-**Note:** For a much impressive, Customer Success AI Agent, please refer (https://github.com/devaki264/flowsupportai_2.0)
+**Note:** For a much impressive, Customer Success AI Agent, please refer https://github.com/devaki264/flowsupportai_2.0
 
 **Built by:** Devakinandan Palla  
 **Purpose:** Portfolio project demonstrating AI agent training, workflow automation, and operational system design
@@ -357,5 +357,6 @@ For questions about this project or collaboration opportunities:
 ---
 
 **⭐ If you found this project interesting, please star the repository!**
+
 
 
